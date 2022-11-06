@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on gaining more knowlege on tech
+- 🌱 I’m currently learning Software Engineering Programme with ALX
+- 👯 I’m looking to collaborate on mind blowing projects
+- 🤔 I’m looking for help with people with more knowlege and skills
+- 📫 How to reach me: Pendusky@gmail.com
 
 <!--
 **pendusky/pendusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
